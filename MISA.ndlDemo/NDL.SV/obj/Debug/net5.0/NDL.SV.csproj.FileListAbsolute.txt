@@ -1,0 +1,17 @@
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.SV.deps.json
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.SV.dll
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\ref\NDL.SV.dll
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.SV.pdb
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.Common.dll
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.DL.dll
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.Common.pdb
+D:\project\MISA.ndlDemo\NDL.SV\bin\Debug\net5.0\NDL.DL.pdb
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.csprojAssemblyReference.cache
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.AssemblyInfoInputs.cache
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.AssemblyInfo.cs
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.csproj.CoreCompileInputs.cache
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.csproj.CopyComplete
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.dll
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\ref\NDL.SV.dll
+D:\project\MISA.ndlDemo\NDL.SV\obj\Debug\net5.0\NDL.SV.pdb
