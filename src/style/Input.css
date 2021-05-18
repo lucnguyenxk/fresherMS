@@ -1,0 +1,14 @@
+input{
+    height : 32px;
+    width : 150px;
+    padding-left: 16px;
+    color : #000000;
+    border: 1px solid #bbbbbb;
+    outline: 0;
+    padding-right:8px;
+    font-family: GoogleSans-Regular;
+
+}
+    .input-search:hover {
+        border-color: #019160;
+    }

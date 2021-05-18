@@ -1,0 +1,46 @@
+.notification{
+    display: none;
+}
+.notify-content{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #ffffff;
+    width: 500px;
+    height: 200px;
+
+}
+.notify-Mes{
+    display: flex;
+}
+.img-noti{
+    width: 80px;
+    height: 80px;
+    background-image: url("../assets/icon/notidelete.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Mess{
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: normal;
+}
+.notify-button{
+    padding-top: 30px;
+    margin-top: 20px;
+    display: flex;
+    border-top: 1px solid #bbbbbb ;
+    justify-content: space-between;
+}
+.Cancel_noti{
+    background-color: #ffffff;
+    border: 1px solid #bbbbbb;
+    color: black;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.Accept_noti{
+    padding-left: 25px;
+    padding-right: 25px;
+}

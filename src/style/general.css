@@ -1,0 +1,62 @@
+
+@import url('Button.css');
+@import url('Selection.css');
+@import url('Input.css');
+body {
+    margin: 0;
+}
+
+.bg-primary {
+    background-color: #01B075;
+}
+
+
+.text-align-center{
+    text-align: center;
+}
+
+.text-align-right{
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: #000;;
+    cursor: pointer;
+}
+div{
+    font-family: notosans-regular;
+    font-size: 13px;
+}
+
+@font-face {
+    font-family: 'GoogleSans-Regular';
+    src: url('../assets/font/GoogleSans-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'GoogleSans-Bold';
+    src: url('../assets/font/GoogleSans-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'GoogleSans-Italic';
+    src: url('../assets/font/GoogleSans-Italic.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'GoogleSans-BoldItalic';
+    src: url('../assets/font/GoogleSans-BoldItalic.otf') format('opentype');
+}
+@font-face {
+    font-family: 'notosans-regular';
+    src: url('../assets/font/notosans-regular.2cb88a13.woff2') format('opentype');
+}
+@font-face {
+    font-family: 'notosans-semibold';
+    src: url('../assets/font/notosans-semibold.df3e6dc4.woff2') format('opentype');
+}
+
+.bg-selected-row{
+    background-color: #f0f0f0;
+}

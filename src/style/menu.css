@@ -1,0 +1,72 @@
+
+
+.menu{
+    position: absolute;
+    top: 0;
+    width : 180px;
+    height : 100vh;
+    border-right: 1px solid;
+    background-color :#393a3d;
+    color: #fff;
+}
+
+.menu .menu-top{
+    display : flex;
+    height : 60px;
+    width: 100%;
+    align-items: center;
+}
+.img-list {
+    background: url("../assets/img/Sprites.64af8f61.svg") no-repeat -428px -92px;
+    height : 30px;
+    width : 30px;
+    margin-left : 18px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.img-logo {
+    height: 45px;
+    width: 44px;
+    background: url("../assets/img/Sprites.64af8f61.svg") no-repeat -1232px -1015px;
+    cursor: pointer;
+}
+.TextMenuCus{
+    font-size: 15px;
+    margin-left: 5px;
+}
+.item {
+    color: #fff;
+    display: flex;
+    height: 44px;
+    align-items: center;
+}
+    .item:hover {
+        background-color: #dedede50;
+    }
+.image-icon{
+    margin-left:16px ;
+    width:22px;
+    height:22px;
+    background-size: contain;
+    background-position:center;
+    background-repeat:no-repeat;
+}
+.dashboard{
+    background:url("../assets/img/Sprites.64af8f61.svg") no-repeat -33px -1587px;
+}
+.report{
+    background:url("../assets/img/Sprites.64af8f61.svg") no-repeat -552px -1593px;
+}
+.setting{
+    background:url("../assets/img/Sprites.64af8f61.svg") no-repeat -90px -201px;
+}
+.employee{
+    background:url("../assets/img/Sprites.64af8f61.svg") no-repeat -165px -1664px ;
+}
+.menu-text{
+    margin-left:10px;
+    cursor: pointer;
+}
+.input-phone-tax{
+    width: 100%;
+}

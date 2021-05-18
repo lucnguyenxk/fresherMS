@@ -1,0 +1,4 @@
+
+chỉnh focus get code;
+sửa lấy code mới nhất
+thêm mã nhân viên vào thông báo trùnng

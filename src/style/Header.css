@@ -1,0 +1,47 @@
+#header {
+    position: absolute;
+    display: flex;
+    left: 200px;
+    top: 0;
+    right: 0;
+    height: 60px;
+    align-items: center;
+    border-bottom: 1px solid #808080;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.name-res{
+    padding-left :30px;
+    display : flex;
+}
+.user-in4{
+    display: flex;
+    align-items :center;
+}
+#select-res{
+    width: 100%;
+    border-style:none ;
+    border: none;
+    font-weight: bold;
+}
+.avatar{
+    padding-right:10px;
+    width : 30px;
+    height:30px;
+    border-radius:inherit;
+    background-image:url("../content/icon/avatar-default.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    padding-right:16px;
+    cursor:pointer;
+}
+.cho-user{
+    width: 30px;
+    height: 30px;
+    background-image: url("../content/icon/option.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    padding-left:16px;
+    cursor:pointer;
+}
+
